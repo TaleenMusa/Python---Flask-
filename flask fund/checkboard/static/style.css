@@ -1,0 +1,45 @@
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.table1 {
+    border: 2px solid black;
+}
+
+.box1 {
+    background-color: red;
+    width: 20px;
+    height: 20px;
+}
+
+.box2 {
+    background-color: black;
+    width: 20px;
+    height: 20px;
+}
+
+
+.box3 {
+    background-color: green;
+    width: 20px;
+    height: 20px;
+}
+
+.box4 {
+    background-color: beige;
+    width: 20px;
+    height: 20px;
+}
+
+.color1 {
+    background-color: red;
+    width: 20px;
+    height: 20px;
+}
+
+.color2 {
+    background-color: black;
+    width: 20px;
+    height: 20px;
+}
